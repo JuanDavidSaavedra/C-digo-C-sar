@@ -1,0 +1,2 @@
+mensaje = input('mensaje: ')
+llave
